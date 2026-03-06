@@ -12,7 +12,7 @@
 
 | # | Agent | Core Concept | Stack | Notebook |
 |---|-------|-------------|-------|----------|
-| 01 | ReAct Research Agent | Reason → Act → Observe loop | Gemini + Tavily | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-agents-lab/blob/main/01_react_agent/react_agent.ipynb) |
+| 01 | ReAct Research Agent | Reason → Act → Observe loop | Gemini + Tavily | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mj-labs-sys/ai-agents-lab/blob/main/01_react_agent/react_agent.ipynb) |
 | 02 | RAG Agent | Retrieval Augmented Generation | Coming soon | — |
 | 03 | Multi-Agent System | Agent orchestration | Coming soon | — |
 and more..
@@ -62,7 +62,7 @@ Click the **Open in Colab** badge next to any agent above.
 ### Running Locally (Optional)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-agents-lab.git
+git clone https://github.com/mj-labs-sys/ai-agents-lab.git
 cd ai-agents-lab
 pip install -r requirements.txt
 jupyter notebook
