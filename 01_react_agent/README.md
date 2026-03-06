@@ -1,6 +1,6 @@
 # 01 — ReAct Research Agent
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ai-agents-lab/blob/main/01_react_agent/react_agent.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mj-labs-sys/ai-agents-lab/blob/main/01_react_agent/react_agent.ipynb)
 
 > An autonomous research agent that searches the web, reads results, and decides when it has enough information to write a structured report — without any hardcoded steps.
 
